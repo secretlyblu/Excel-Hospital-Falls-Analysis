@@ -63,7 +63,8 @@ The data lives in the `Scenario 1 - Falls` sheet as an Excel Table named **Falls
 | 2025 Q2 | 4 | 2 | 6 |
 | **Total** | **22** | **13** | **35** |
 
-*[Add a screenshot of your PivotTable here]*
+
+<img width="652" height="315" alt="image" src="https://github.com/user-attachments/assets/a28bafd2-4eb9-4a69-9e5a-cd0bff92617f" />
 
 ## Findings
 
@@ -97,11 +98,11 @@ The data lives in the `Scenario 1 - Falls` sheet as an Excel Table named **Falls
 
 - `HC_Excel_Portfolio_Scenarios.xlsx`: the workbook (Scenario 1 uses the `Scenario 1 - Falls` and `S1 - Pivot` sheets)
 - `README.md`: this file
-- `images/`: screenshots of the PivotTable (optional)
+- `images/`: screenshots of the PivotTable 
 
-## Author - [Your Name]
+## Author - Diane Gordon
 
 This project is part of my data analytics portfolio, showcasing Excel skills for healthcare analyst roles.
 
-- **LinkedIn**: [Add your link]
-- **GitHub**: [Add your link]
+- **LinkedIn**: (https://www.linkedin.com/in/diagordon/)
+- **GitHub**: (https://github.com/secretlyblu?tab=repositories)
